@@ -2,7 +2,7 @@
 
 BearTemp is a modern Windows desktop application built with **WPF (Windows Presentation Foundation)** to monitor real-time system metrics such as CPU temperature, GPU temperature, memory load, and system load. It's designed to provide a clean, modern interface inspired by Windows 11.
 
-## ![Preview](BVearTemp/preview.png)
+## ![Preview](BearTemp/preview.png)
 
 ## Features
 
