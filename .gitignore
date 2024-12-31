@@ -1,0 +1,75 @@
+# Ignore build and packaging folders
+bin/
+obj/
+publish/
+
+# Ignore user-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore VS Code specific files
+.vscode/
+
+# Ignore Visual Studio specific files
+.vs/
+.idea/
+
+# Ignore crash reports and debug logs
+*.tlog
+*.log
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Ignore DotNet CLI-specific files
+*.global.json
+*.generated.cs
+*.runtimeconfig.json
+*.deps.json
+
+# Ignore build results
+*.dll
+*.pdb
+*.exe
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+
+# Ignore test results
+TestResults/
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.cache
+*.log
+
+# Ignore by extension
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Ignore compiled binaries
+*.dll
+*.exe
+
+# Ignore personal settings
+*.orig
+*.swp
+*.bak
+
+# Ignore Rider IDE-specific files
+.idea/
+*.sln.iml
+
+# Ignore compiled output
+**/Debug/
+**/Release/
