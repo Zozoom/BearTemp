@@ -60,10 +60,6 @@ The app updates metrics every second using a `DispatcherTimer` to ensure real-ti
 - **Enable Run as Admin**:
   - Relaunches the application with administrator privileges for full hardware access.
 
-## Screenshot
-
-![BearTemp Screenshot](screenshot.png)
-
 ## Future Improvements
 
 - Add support for fan speed monitoring.
